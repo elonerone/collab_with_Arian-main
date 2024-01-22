@@ -1,3 +1,0 @@
-this project made by me and arshanFm (https://github.com/Arshan-Fm)
-
-it's a navbar that can chang color to dark mode and ...
